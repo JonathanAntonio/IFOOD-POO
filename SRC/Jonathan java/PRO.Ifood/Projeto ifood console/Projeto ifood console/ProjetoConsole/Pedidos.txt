@@ -1,0 +1,6 @@
+Produto [Preço->30.0 Nome->Yakimeshi]2024-11-29
+Produto [Preço->15.0 Nome->Tiramisu de Matcha]2024-11-29
+Produto [Preço->22.5 Nome->Prato Vegetariano]2024-11-29
+Produto [Preço->12.0 Nome->Torta de Maçã]2024-11-29
+Produto [Preço->15.0 Nome->Salada de Frutas]2024-11-29
+Produto [Preço->22.5 Nome->Prato Vegetariano]2024-11-29
